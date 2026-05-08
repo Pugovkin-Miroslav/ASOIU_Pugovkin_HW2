@@ -10,9 +10,9 @@ Console.InputEncoding = Encoding.UTF8;
 string dbPath = "tasks.db";
 string projectsCsv = Path.Combine(AppContext.BaseDirectory, "projects.csv");
 string tasksCsv = Path.Combine(AppContext.BaseDirectory, "tasks.csv");
-Console.WriteLine($"[DEBUG] Базовая директория: {AppContext.BaseDirectory}");
-Console.WriteLine($"[DEBUG] projects.csv существует: {File.Exists(projectsCsv)}");
-Console.WriteLine($"[DEBUG] tasks.csv существует: {File.Exists(tasksCsv)}");
+//Console.WriteLine($"[DEBUG] Базовая директория: {AppContext.BaseDirectory}");
+//Console.WriteLine($"[DEBUG] projects.csv существует: {File.Exists(projectsCsv)}");
+//Console.WriteLine($"[DEBUG] tasks.csv существует: {File.Exists(tasksCsv)}");
 
 // Создаём менеджер БД и инициализируем данные
 var db = new DatabaseManager(dbPath);
