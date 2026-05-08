@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2332CD32&lines=ASOIU+Second+homework;Отчет+находится+в+корне+репозитория;Пуговкин_МГ_ИУ5_24Б_ДЗ2_АСОИУ_2026.docx&duration=5000&pause=100&repeat=true&fontSize=22&width=600)](https://git.io/typing-svg)
